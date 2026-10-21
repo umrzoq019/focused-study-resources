@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="title description">
+  <title id="title">How to read binary — FocusED</title>
+  <desc id="description">AS and A Level Computer Science. A worked example shows binary 00101010 as 32 plus 8 plus 2, which equals decimal 42. A separate practice prompt asks the reader to convert binary 10010110. A free twelve-question binary worksheet with answers is available at focused-edu.vercel.app.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+    .ink { fill: #15213b; }
+    .muted { fill: #536179; }
+    .brand { fill: #385bcb; }
+    .eyebrow { font-size: 24px; font-weight: 700; letter-spacing: 2px; }
+    .value { font-size: 30px; font-weight: 600; text-anchor: middle; }
+    .bit { font-size: 46px; font-weight: 700; text-anchor: middle; }
+    .mono { font-family: 'Consolas', 'DejaVu Sans Mono', monospace; }
+  </style>
+
+  <rect width="1080" height="1350" fill="#ffffff"/>
+
+  <g id="heading">
+    <text x="72" y="82" class="brand eyebrow">AS &amp; A LEVEL / COMPUTER SCIENCE</text>
+    <text x="68" y="178" class="ink" font-size="72" font-weight="700" letter-spacing="-2">How to read binary</text>
+    <text x="72" y="234" class="muted" font-size="32">Add the place values with a 1.</text>
+  </g>
+
+  <g id="worked-example">
+    <rect x="72" y="280" width="936" height="534" rx="24" fill="#ffffff" stroke="#d8e0ef" stroke-width="2"/>
+    <text x="108" y="334" class="brand eyebrow">WORKED EXAMPLE</text>
+    <text x="108" y="410" class="ink mono" font-size="58" font-weight="700">00101010<tspan font-size="30" baseline-shift="sub">2</tspan><tspan font-family="Segoe UI, Arial, sans-serif" font-weight="400"> = </tspan>42<tspan font-size="30" baseline-shift="sub">10</tspan></text>
+
+    <g id="place-values">
+      <text x="169" y="477" class="value muted">128</text>
+      <text x="275" y="477" class="value muted">64</text>
+      <text x="381" y="477" class="value brand">32</text>
+      <text x="487" y="477" class="value muted">16</text>
+      <text x="593" y="477" class="value brand">8</text>
+      <text x="699" y="477" class="value muted">4</text>
+      <text x="805" y="477" class="value brand">2</text>
+      <text x="911" y="477" class="value muted">1</text>
+    </g>
+
+    <g id="binary-digits">
+      <rect x="122" y="500" width="94" height="92" rx="13" fill="#f3f5f9" stroke="#d8e0ef"/>
+      <rect x="228" y="500" width="94" height="92" rx="13" fill="#f3f5f9" stroke="#d8e0ef"/>
+      <rect x="334" y="500" width="94" height="92" rx="13" fill="#385bcb"/>
+      <rect x="440" y="500" width="94" height="92" rx="13" fill="#f3f5f9" stroke="#d8e0ef"/>
+      <rect x="546" y="500" width="94" height="92" rx="13" fill="#385bcb"/>
+      <rect x="652" y="500" width="94" height="92" rx="13" fill="#f3f5f9" stroke="#d8e0ef"/>
+      <rect x="758" y="500" width="94" height="92" rx="13" fill="#385bcb"/>
+      <rect x="864" y="500" width="94" height="92" rx="13" fill="#f3f5f9" stroke="#d8e0ef"/>
+      <text x="169" y="562" class="bit muted">0</text>
+      <text x="275" y="562" class="bit muted">0</text>
+      <text x="381" y="562" class="bit" fill="#ffffff">1</text>
+      <text x="487" y="562" class="bit muted">0</text>
+      <text x="593" y="562" class="bit" fill="#ffffff">1</text>
+      <text x="699" y="562" class="bit muted">0</text>
+      <text x="805" y="562" class="bit" fill="#ffffff">1</text>
+      <text x="911" y="562" class="bit muted">0</text>
+    </g>
+
+    <text x="108" y="648" class="muted" font-size="29">Keep the values above each 1.</text>
+    <rect x="108" y="680" width="864" height="88" rx="14" fill="#edf1fc"/>
+    <text x="540" y="739" class="brand" font-size="44" font-weight="700" text-anchor="middle">32 + 8 + 2 = 42</text>
+  </g>
+
+  <g id="try-it">
+    <rect x="72" y="858" width="936" height="220" rx="24" fill="#edf1fc"/>
+    <text x="108" y="911" class="brand eyebrow">YOUR TURN</text>
+    <text x="108" y="981" class="ink mono" font-size="56" font-weight="700">10010110<tspan font-size="29" baseline-shift="sub">2</tspan><tspan font-family="Segoe UI, Arial, sans-serif" font-weight="400"> = ?</tspan><tspan font-size="29" baseline-shift="sub">10</tspan></text>
+    <text x="108" y="1036" class="muted" font-size="29">Which place values will you add?</text>
+  </g>
+
+  <g id="brand-footer">
+    <g id="focused-logo" transform="translate(72 1124) scale(1.1666666667)">
+      <rect width="48" height="48" rx="11" fill="#385bcb"/>
+      <path d="M10 13c5 0 9 1.4 12 4v19c-3-2.6-7-4-12-4V13Z M38 13c-5 0-9 1.4-12 4v19c3-2.6 7-4 12-4V13Z" fill="#ffffff"/>
+    </g>
+    <text x="148" y="1166" class="ink" font-size="43" font-weight="700" letter-spacing="-1">Focus<tspan class="brand">ED</tspan></text>
+    <text x="72" y="1230" class="brand" font-size="32" font-weight="600">focused-edu.vercel.app</text>
+    <text x="72" y="1290" class="muted" font-size="27">Free binary worksheet · 12 questions · answers included</text>
+  </g>
+</svg>
