@@ -8,6 +8,10 @@ Free IELTS Writing Task 2 guidance and A level Computer Science practice, with w
 | IELTS Writing Task 2: plan, write and revise | [Guide](guides/ielts-writing-task-2.md) | [Open on FocusED](https://focused-edu.vercel.app/resources/ielts-writing-task-2) |
 | Binary and two's complement: 12 questions, 24 marks | [Worksheet and answers](worksheets/binary-and-twos-complement.md) | [Open on FocusED](https://focused-edu.vercel.app/resources/a-level-computer-science-binary) |
 
+## For teachers and learning centres
+
+A teacher can assess one resource without registration or commitments. See the [10-minute educator review and optional supervised pilot guide](campaigns/teacher-review-and-optional-pilot.md) for a practical checklist, error-report rubric, and permission-first approach. No existing center or school is claimed as a partner.
+
 ## Use the materials
 
 Try each task before opening the answer or example. Keep your working, compare the reasoning and retry a question you missed. Teachers can print attributed copies for study and classroom practice. See [copying permission](COPYING.md).
