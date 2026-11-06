@@ -19,7 +19,7 @@ Recorded from the current FocusED interface. The film starts with exam creation,
 
 Try the actual platform: https://focused-edu.vercel.app/
 
-Six new reels are scheduled for 17–27 November 2026 on `@focused.019`, in Asia/Tashkent time. [Schedule CSV](schedule.csv), confirmed on 6 November. These are future scheduled posts, not a claim that publication has already occurred.
+The launch film is scheduled for 8 November at 12:00, followed by six educational reels on 17–27 November 2026, on `@focused.019`. All times use Asia/Tashkent. [Schedule CSV](schedule.csv), confirmed on 6 November. These are future scheduled posts, not a claim that publication has already occurred.
 
 The Reading example comes from an original FocusED practice paper. The SAT-style example is original supplementary practice. No official exam-board affiliation or score guarantee is implied. The narration is synthetic; the graphics and examples are original FocusED material. Font files and model weights are not distributed here.
 

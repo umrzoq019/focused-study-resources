@@ -1,7 +1,8 @@
-"video","date_time","timezone","file"
-"reading-evidence","2026-11-17T18:00:00","Asia/Tashkent","reading-evidence.mp4"
-"sat-intersections","2026-11-19T10:00:00","Asia/Tashkent","sat-intersections.mp4"
-"percent-base","2026-11-21T10:00:00","Asia/Tashkent","percent-base.mp4"
-"writing-overview","2026-11-23T18:00:00","Asia/Tashkent","writing-overview.mp4"
-"theta-triangle","2026-11-25T10:00:00","Asia/Tashkent","theta-triangle.mp4"
-"reasoning-first","2026-11-27T10:00:00","Asia/Tashkent","reasoning-first.mp4"
+video,date_time,timezone,file
+launch,2026-11-08T12:00:00,Asia/Tashkent,launch.mp4
+reading-evidence,2026-11-17T18:00:00,Asia/Tashkent,reading-evidence.mp4
+sat-intersections,2026-11-19T10:00:00,Asia/Tashkent,sat-intersections.mp4
+percent-base,2026-11-21T10:00:00,Asia/Tashkent,percent-base.mp4
+writing-overview,2026-11-23T18:00:00,Asia/Tashkent,writing-overview.mp4
+theta-triangle,2026-11-25T10:00:00,Asia/Tashkent,theta-triangle.mp4
+reasoning-first,2026-11-27T10:00:00,Asia/Tashkent,reasoning-first.mp4
