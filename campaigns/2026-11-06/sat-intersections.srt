@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:02,080
+The graphs meet at x
+equals two
+
+2
+00:00:02,080 --> 00:00:04,440
+and x equals four.
+
+3
+00:00:04,620 --> 00:00:05,520
+Are you finished?
+
+4
+00:00:05,600 --> 00:00:06,265
+Not yet.
+
+5
+00:00:06,280 --> 00:00:07,700
+This question asks for
+the sum
+
+6
+00:00:07,700 --> 00:00:09,360
+of those x-coordinates.
+
+7
+00:00:09,840 --> 00:00:11,580
+Two plus four is six.
+
+8
+00:00:12,040 --> 00:00:14,160
+Desmos can help you
+find the intersections.
+
+9
+00:00:14,540 --> 00:00:16,080
+You still have to answer
+the question
+
+10
+00:00:16,080 --> 00:00:17,200
+that was asked.

@@ -1,0 +1,50 @@
+1
+00:00:00,000 --> 00:00:00,900
+The passage says
+
+2
+00:00:00,900 --> 00:00:03,720
+the counts covered
+weekday afternoons.
+
+3
+00:00:03,740 --> 00:00:05,740
+The statement says
+they covered weekends.
+
+4
+00:00:06,260 --> 00:00:08,480
+That's False: the
+meaning conflicts.
+
+5
+00:00:08,620 --> 00:00:10,200
+Now it says a furniture
+company paid
+
+6
+00:00:10,200 --> 00:00:11,260
+for the seats.
+
+7
+00:00:11,660 --> 00:00:13,860
+The passage never says
+who paid.
+
+8
+00:00:14,260 --> 00:00:15,300
+That's Not Given.
+
+9
+00:00:15,720 --> 00:00:17,420
+Don't ask whether a
+statement sounds
+
+10
+00:00:17,420 --> 00:00:18,260
+plausible.
+
+11
+00:00:19,020 --> 00:00:21,864
+Ask what the text
+actually establishes.
