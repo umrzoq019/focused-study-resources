@@ -2,6 +2,12 @@
 
 English narration and English subtitles. Original teaching animations, prepared for FocusED's Instagram page `@focused.019`.
 
+## Launch film
+
+[Watch the 82-second launch film](launch.mp4) · [English subtitles](launch.srt).
+
+Recorded from the current FocusED interface. The film starts with exam creation, checking and classroom teaching, then shows student study tools, exam practice and university planning. Authenticated screens display clearly labelled demonstration data; AI checker feedback in the recording is a sample response, not an independently verified marking result.
+
 | Video | English subtitles | Topic |
 | --- | --- | --- |
 | [False or Not Given?](reading-evidence.mp4) | [SRT](reading-evidence.srt) | Distinguish contradictory evidence from missing information. |
