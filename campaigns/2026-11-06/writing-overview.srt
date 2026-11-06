@@ -1,0 +1,50 @@
+1
+00:00:00,000 --> 00:00:02,040
+Bus and car use fell.
+
+2
+00:00:02,700 --> 00:00:04,200
+Cycling and walking
+rose.
+
+3
+00:00:04,420 --> 00:00:06,520
+That's the main pattern
+in this chart.
+
+4
+00:00:07,270 --> 00:00:08,790
+An overview should
+make that pattern
+
+5
+00:00:08,790 --> 00:00:11,230
+clear before you list
+every number.
+
+6
+00:00:11,710 --> 00:00:13,025
+Then choose
+
+7
+00:00:13,040 --> 00:00:15,400
+comparisons that
+support it.
+
+8
+00:00:15,740 --> 00:00:17,580
+The word counter tells
+you how
+
+9
+00:00:17,580 --> 00:00:18,680
+much you've written.
+
+10
+00:00:19,280 --> 00:00:20,380
+The chart tells you
+
+11
+00:00:20,380 --> 00:00:22,480
+what your answer needs
+to explain.

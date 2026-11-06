@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:03,280
+A price drops 20% then
+rises 20%.
+
+2
+00:00:03,280 --> 00:00:04,780
+Back where it started?
+
+3
+00:00:05,040 --> 00:00:06,100
+Start with 100.
+
+4
+00:00:06,440 --> 00:00:08,240
+The discount takes it to
+80.
+
+5
+00:00:08,460 --> 00:00:10,500
+20% of 80 is sixteen,
+
+6
+00:00:10,560 --> 00:00:12,360
+so the new price is 96.
+
+7
+00:00:13,000 --> 00:00:14,740
+The second percentage
+uses a different
+
+8
+00:00:14,740 --> 00:00:15,920
+starting amount.
+
+9
+00:00:16,240 --> 00:00:17,700
+Write the multipliers
+before you
+
+10
+00:00:17,700 --> 00:00:19,020
+combine the changes.

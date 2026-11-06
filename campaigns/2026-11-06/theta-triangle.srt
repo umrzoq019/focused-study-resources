@@ -1,0 +1,46 @@
+1
+00:00:00,080 --> 00:00:02,420
+Keep the hypotenuse at
+five.
+
+2
+00:00:02,860 --> 00:00:04,365
+Now increase theta.
+
+3
+00:00:04,380 --> 00:00:06,480
+The opposite side grows
+and the adjacent
+
+4
+00:00:06,480 --> 00:00:07,925
+side shrinks.
+
+5
+00:00:07,940 --> 00:00:10,100
+That's why sine
+increases and cosine
+
+6
+00:00:10,100 --> 00:00:12,940
+decreases across these
+acute angles.
+
+7
+00:00:13,580 --> 00:00:15,240
+Move the angle back
+and watch
+
+8
+00:00:15,240 --> 00:00:16,860
+the ratios change.
+
+9
+00:00:17,160 --> 00:00:19,780
+The symbols describe
+the triangle; they don't
+
+10
+00:00:19,780 --> 00:00:22,142
+replace understanding
+what each side is doing.

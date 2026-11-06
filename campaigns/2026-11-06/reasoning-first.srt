@@ -1,0 +1,45 @@
+1
+00:00:00,000 --> 00:00:01,760
+Before you reveal the
+answer, write
+
+2
+00:00:01,760 --> 00:00:03,200
+one line of reasoning.
+
+3
+00:00:03,660 --> 00:00:05,320
+Compare it with the
+explanation.
+
+4
+00:00:05,800 --> 00:00:07,240
+Was the method wrong,
+or did
+
+5
+00:00:07,240 --> 00:00:08,520
+you lose a sign?
+
+6
+00:00:08,700 --> 00:00:11,060
+Mark the question to
+revisit, then try it again
+
+7
+00:00:11,060 --> 00:00:12,520
+without the solution.
+
+8
+00:00:12,920 --> 00:00:15,180
+The useful result of a
+practice session is
+
+9
+00:00:15,180 --> 00:00:16,740
+knowing what to do
+differently on
+
+10
+00:00:16,740 --> 00:00:17,934
+the next attempt.
