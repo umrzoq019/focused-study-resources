@@ -1,0 +1,985 @@
+1
+00:00:00,000 --> 00:00:03,040
+Imagine tomorrow's class needs a short practice paper.
+
+2
+00:00:03,605 --> 00:00:04,880
+You have a topic in mind,
+
+3
+00:00:05,325 --> 00:00:08,140
+but the questions, marking scheme, student responses
+
+4
+00:00:08,140 --> 00:00:10,620
+and feedback are all in different places.
+
+5
+00:00:11,105 --> 00:00:14,060
+This is a tour of how FocusED connects that work.
+
+6
+00:00:14,605 --> 00:00:17,120
+We'll start with creating and checking an assessment,
+
+7
+00:00:17,325 --> 00:00:18,975
+take it into an online classroom,
+
+8
+00:00:19,465 --> 00:00:21,215
+and then follow the student's side:
+
+9
+00:00:21,625 --> 00:00:22,300
+lessons,
+
+10
+00:00:22,425 --> 00:00:23,100
+practice,
+
+11
+00:00:23,445 --> 00:00:24,880
+exam rooms and study tools.
+
+12
+00:00:25,445 --> 00:00:28,440
+We'll also look at university planning, course editing
+
+13
+00:00:28,765 --> 00:00:31,420
+and the different account permissions. Some screens in
+
+14
+00:00:31,420 --> 00:00:34,400
+this tour use clearly labelled demonstration data.
+
+15
+00:00:34,905 --> 00:00:36,840
+They show the actual interface without
+
+16
+00:00:36,840 --> 00:00:38,820
+exposing a real student's work.
+
+17
+00:00:39,325 --> 00:00:41,280
+Public lessons and exam rooms
+
+18
+00:00:41,280 --> 00:00:43,160
+are recorded from the live platform.
+
+19
+00:00:43,745 --> 00:00:45,440
+Let's start in the exam creator.
+
+20
+00:00:46,105 --> 00:00:48,455
+First decide what you want the paper to assess.
+
+21
+00:00:49,005 --> 00:00:50,660
+A chapter on algebra is a more
+
+22
+00:00:50,660 --> 00:00:53,700
+useful starting point than a request for a difficult test.
+
+23
+00:00:54,305 --> 00:00:56,005
+Choose the relevant qualification,
+
+24
+00:00:56,365 --> 00:01:00,080
+subject and scope, then set the structure and maximum marks.
+
+25
+00:01:00,705 --> 00:01:02,255
+You can build a paper manually.
+
+26
+00:01:02,745 --> 00:01:04,640
+Write the question, add any parts,
+
+27
+00:01:05,065 --> 00:01:06,420
+assign the marks and enter
+
+28
+00:01:06,420 --> 00:01:08,820
+the expected answer or marking criteria.
+
+29
+00:01:09,585 --> 00:01:11,400
+A short numerical question and
+
+30
+00:01:11,400 --> 00:01:14,460
+an explanation question need different marking instructions.
+
+31
+00:01:15,285 --> 00:01:17,560
+Keep those instructions clear enough that someone
+
+32
+00:01:17,560 --> 00:01:20,220
+else could apply them. AI assistance can
+
+33
+00:01:20,220 --> 00:01:22,505
+produce a draft where your account permits it.
+
+34
+00:01:22,925 --> 00:01:24,480
+That draft still belongs on
+
+35
+00:01:24,480 --> 00:01:27,040
+your review desk. Read each question.
+
+36
+00:01:27,405 --> 00:01:28,605
+Work through the answer.
+
+37
+00:01:28,985 --> 00:01:31,580
+Check that the wording matches the syllabus and
+
+38
+00:01:31,580 --> 00:01:34,380
+that the marks reflect what a student must actually do.
+
+39
+00:01:34,885 --> 00:01:36,420
+The paper remains editable.
+
+40
+00:01:36,845 --> 00:01:37,745
+Change a question,
+
+41
+00:01:38,065 --> 00:01:39,060
+repair an answer,
+
+42
+00:01:39,625 --> 00:01:41,180
+adjust the marks or replace an
+
+43
+00:01:41,180 --> 00:01:42,840
+item that doesn't fit the lesson.
+
+44
+00:01:43,485 --> 00:01:45,540
+The point is to prepare the assessment you
+
+45
+00:01:45,540 --> 00:01:48,620
+need, rather than accept the first generated version.
+
+46
+00:01:49,185 --> 00:01:51,220
+When it is ready, use the student version for
+
+47
+00:01:51,220 --> 00:01:54,180
+the task and keep the answers or marking scheme separate.
+
+48
+00:01:54,685 --> 00:01:57,835
+Printing and export support the same paper outside the browser.
+
+49
+00:01:58,205 --> 00:01:59,820
+Before sharing it, check the final
+
+50
+00:01:59,820 --> 00:02:01,240
+layout and the total marks.
+
+51
+00:02:01,785 --> 00:02:03,420
+Now look at the exam checker.
+
+52
+00:02:03,745 --> 00:02:04,595
+It needs context:
+
+53
+00:02:05,105 --> 00:02:06,380
+what was asked, how it should
+
+54
+00:02:06,380 --> 00:02:08,365
+be marked and what the student answered.
+
+55
+00:02:08,805 --> 00:02:10,580
+A response on its own cannot tell
+
+56
+00:02:10,580 --> 00:02:13,660
+a checker which method marks the teacher intended to award.
+
+57
+00:02:14,185 --> 00:02:16,185
+Bring in the paper and marking criteria,
+
+58
+00:02:16,765 --> 00:02:19,265
+then the student's work using the supported input.
+
+59
+00:02:19,685 --> 00:02:22,440
+Typed responses are useful for a quick demonstration;
+
+60
+00:02:23,305 --> 00:02:26,060
+document or image inputs need legible text
+
+61
+00:02:26,060 --> 00:02:28,540
+and a careful check of anything extracted.
+
+62
+00:02:29,305 --> 00:02:32,620
+The useful part of the result is the question-level explanation.
+
+63
+00:02:33,485 --> 00:02:35,740
+Look at what the response actually contains,
+
+64
+00:02:36,265 --> 00:02:39,460
+which criteria it meets and why a mark was withheld.
+
+65
+00:02:40,185 --> 00:02:41,960
+If a student used the right method
+
+66
+00:02:41,960 --> 00:02:44,600
+but made an arithmetic slip, the marking scheme
+
+67
+00:02:44,600 --> 00:02:47,000
+should determine how that affects the result.
+
+68
+00:02:47,545 --> 00:02:50,645
+Review the feedback before treating it as a teaching decision.
+
+69
+00:02:51,185 --> 00:02:53,940
+Exact objective answers can be checked directly.
+
+70
+00:02:54,825 --> 00:02:57,820
+Subjective AI marking is provisional, and a
+
+71
+00:02:57,820 --> 00:03:00,520
+teacher should verify it against the work and rubric.
+
+72
+00:03:00,985 --> 00:03:04,440
+A confident-looking number is not a substitute for that review.
+
+73
+00:03:04,985 --> 00:03:06,335
+The next step is practical:
+
+74
+00:03:06,685 --> 00:03:08,380
+decide what the learner should do again.
+
+75
+00:03:08,685 --> 00:03:10,140
+A short correction task can be
+
+76
+00:03:10,140 --> 00:03:12,275
+more useful than repeating the whole paper.
+
+77
+00:03:12,760 --> 00:03:15,015
+Keep the explanation tied to the specific error
+
+78
+00:03:15,015 --> 00:03:16,955
+so the student knows what to change.
+
+79
+00:03:17,465 --> 00:03:19,400
+Move that assessment into the classroom.
+
+80
+00:03:19,765 --> 00:03:22,180
+A teacher creates or manages a class, and
+
+81
+00:03:22,180 --> 00:03:24,080
+students use the class code to join.
+
+82
+00:03:24,605 --> 00:03:26,640
+Membership and teaching controls keep
+
+83
+00:03:26,640 --> 00:03:29,220
+the class's work separate from unrelated accounts.
+
+84
+00:03:29,765 --> 00:03:32,940
+Within the class, organise members and prepare an assignment.
+
+85
+00:03:33,545 --> 00:03:36,245
+Choose the assessment and make the instructions clear:
+
+86
+00:03:36,725 --> 00:03:38,100
+what should students complete,
+
+87
+00:03:38,285 --> 00:03:39,360
+what should they submit
+
+88
+00:03:39,465 --> 00:03:40,415
+and when is it due?
+
+89
+00:03:40,805 --> 00:03:44,160
+A class name alone doesn't explain the task. Online
+
+90
+00:03:44,160 --> 00:03:47,360
+sessions can have a time and an external meeting link.
+
+91
+00:03:47,945 --> 00:03:51,040
+The meeting button opens the service chosen by the teacher.
+
+92
+00:03:51,725 --> 00:03:55,140
+FocusED organises the session and its learning tasks;
+
+93
+00:03:55,685 --> 00:03:58,035
+the video call happens in that meeting service.
+
+94
+00:03:58,465 --> 00:04:00,640
+During a lesson, open the lesson board.
+
+95
+00:04:01,185 --> 00:04:03,135
+Put the learning goal, the current task
+
+96
+00:04:03,205 --> 00:04:05,500
+and a timer on a screen the class can follow.
+
+97
+00:04:05,805 --> 00:04:07,980
+For example, students might have six
+
+98
+00:04:07,980 --> 00:04:10,440
+minutes to attempt one question, then compare
+
+99
+00:04:10,440 --> 00:04:13,380
+their reasoning. The board presents that structure.
+
+100
+00:04:14,065 --> 00:04:17,140
+It does not silently collect answers or record attendance.
+
+101
+00:04:17,805 --> 00:04:19,420
+When work and results are ready,
+
+102
+00:04:19,765 --> 00:04:21,215
+the teacher controls release.
+
+103
+00:04:21,905 --> 00:04:24,100
+That gives time to review the marking and
+
+104
+00:04:24,100 --> 00:04:26,800
+prepare useful feedback before learners see it.
+
+105
+00:04:27,245 --> 00:04:29,180
+The same assessment can then lead back
+
+106
+00:04:29,180 --> 00:04:30,865
+to the topic that needs attention.
+
+107
+00:04:31,665 --> 00:04:33,515
+Let's follow that route as a student.
+
+108
+00:04:34,005 --> 00:04:36,840
+The preparation library is organised by qualification,
+
+109
+00:04:37,465 --> 00:04:40,060
+subject and topic. It includes AS
+
+110
+00:04:40,060 --> 00:04:43,100
+and A levels, IGCSE, IB, AP, SAT,
+
+111
+00:04:43,485 --> 00:04:44,980
+IELTS and national preparation.
+
+112
+00:04:45,745 --> 00:04:49,440
+Check the actual unit list, because
+coverage differs between subjects.
+
+113
+00:04:50,125 --> 00:04:51,480
+Inside a lesson, choose
+
+114
+00:04:51,480 --> 00:04:53,840
+the complete text or a guided view.
+
+115
+00:04:54,385 --> 00:04:57,480
+Worked examples and recall practice have their own places.
+
+116
+00:04:58,185 --> 00:04:59,235
+Read the explanation,
+
+117
+00:04:59,925 --> 00:05:02,200
+try a question before revealing its answer,
+
+118
+00:05:02,625 --> 00:05:05,220
+and compare the method rather than only the final number.
+
+119
+00:05:05,220 --> 00:05:08,260
+Some lessons have a separate visual explanation.
+
+120
+00:05:09,045 --> 00:05:10,940
+Here, changing the denominator
+
+121
+00:05:10,940 --> 00:05:13,380
+changes the size of each fraction part.
+
+122
+00:05:13,865 --> 00:05:16,500
+With three shaded parts, moving from quarters to
+
+123
+00:05:16,500 --> 00:05:19,520
+eighths changes three quarters into three eighths.
+
+124
+00:05:20,085 --> 00:05:22,235
+You can see why the amount becomes smaller.
+
+125
+00:05:22,985 --> 00:05:25,285
+Other available models include straight lines,
+
+126
+00:05:25,665 --> 00:05:26,465
+right triangles,
+
+127
+00:05:26,945 --> 00:05:27,360
+derivatives
+
+128
+00:05:27,545 --> 00:05:28,200
+and area.
+
+129
+00:05:28,525 --> 00:05:31,400
+In the triangle, changing theta changes the
+
+130
+00:05:31,400 --> 00:05:35,200
+opposite and adjacent sides while the hypotenuse stays fixed.
+
+131
+00:05:35,885 --> 00:05:37,840
+The symbols describe that relationship.
+
+132
+00:05:38,565 --> 00:05:41,780
+The full original lesson remains available when you switch back.
+
+133
+00:05:42,345 --> 00:05:44,680
+Topic questions sit alongside the material.
+
+134
+00:05:45,325 --> 00:05:46,375
+Write your reasoning,
+
+135
+00:05:46,565 --> 00:05:47,665
+review the explanation
+
+136
+00:05:47,925 --> 00:05:49,475
+and mark a question to revisit.
+
+137
+00:05:50,125 --> 00:05:53,760
+Account features connect enrolled courses and saved progress,
+
+138
+00:05:54,105 --> 00:05:55,460
+while flashcards let you
+
+139
+00:05:55,460 --> 00:05:57,540
+reveal an answer and rate your recall.
+
+140
+00:05:58,165 --> 00:06:00,100
+There is also a dedicated IELTS centre.
+
+141
+00:06:00,100 --> 00:06:04,040
+Reading offers three full papers, each with three passages,
+
+142
+00:06:04,425 --> 00:06:06,220
+forty questions and sixty minutes.
+
+143
+00:06:06,905 --> 00:06:10,060
+The passage and questions sit together, with text highlighting,
+
+144
+00:06:10,405 --> 00:06:12,220
+review flags and a navigator.
+
+145
+00:06:12,725 --> 00:06:15,720
+After submitting, inspect the evidence behind the answers.
+
+146
+00:06:16,365 --> 00:06:18,065
+The raw mark is practice feedback,
+
+147
+00:06:18,425 --> 00:06:19,475
+not an official band.
+
+148
+00:06:19,945 --> 00:06:21,860
+Listening has a full four-part paper
+
+149
+00:06:21,860 --> 00:06:24,580
+with forty questions and a continuous recording.
+
+150
+00:06:25,565 --> 00:06:29,200
+Exam mode is once-only. Study mode adds replay controls,
+
+151
+00:06:29,645 --> 00:06:31,195
+part shortcuts and transcripts.
+
+152
+00:06:31,965 --> 00:06:33,840
+An interrupted exam attempt retains
+
+153
+00:06:33,840 --> 00:06:36,520
+responses for study and is clearly marked.
+
+154
+00:06:37,185 --> 00:06:42,060
+The recording uses disclosed synthetic
+voices and original FocusED material.
+
+155
+00:06:42,605 --> 00:06:44,560
+Writing has three Academic papers,
+
+156
+00:06:44,885 --> 00:06:46,300
+each with a visual Task One
+
+157
+00:06:46,300 --> 00:06:47,580
+and a Task Two essay.
+
+158
+00:06:48,425 --> 00:06:50,140
+Choose timed or untimed practice,
+
+159
+00:06:50,665 --> 00:06:52,760
+switch between tasks and watch the word counts.
+
+160
+00:06:52,760 --> 00:06:56,520
+Same-tab recovery keeps the original timed deadline.
+
+161
+00:06:57,165 --> 00:06:58,965
+The self-check covers four criteria;
+
+162
+00:06:59,545 --> 00:07:03,680
+optional AI feedback requires the
+appropriate account access and credits.
+
+163
+00:07:04,325 --> 00:07:06,420
+Speaking lessons are available, while
+
+164
+00:07:06,420 --> 00:07:08,640
+the dedicated Speaking mock is coming soon.
+
+165
+00:07:09,105 --> 00:07:11,400
+SAT practice has original Reading and
+
+166
+00:07:11,400 --> 00:07:14,200
+Writing and Math modules, plus topic questions.
+
+167
+00:07:14,985 --> 00:07:17,240
+In Math, open the College Board version
+
+168
+00:07:17,240 --> 00:07:20,400
+of Desmos inside the room. Enter the equations,
+
+169
+00:07:20,745 --> 00:07:23,160
+inspect the graph and return to the answer.
+
+170
+00:07:23,785 --> 00:07:26,235
+The clock continues while you use the calculator.
+
+171
+00:07:26,965 --> 00:07:27,765
+Flag questions,
+
+172
+00:07:28,165 --> 00:07:29,180
+eliminate choices
+
+173
+00:07:29,545 --> 00:07:31,600
+and review explanations after submission.
+
+174
+00:07:32,325 --> 00:07:34,040
+These are fixed practice modules.
+
+175
+00:07:34,745 --> 00:07:36,540
+They do not reproduce adaptive SAT
+
+176
+00:07:36,540 --> 00:07:39,040
+scoring or predict an official score.
+
+177
+00:07:39,505 --> 00:07:41,405
+For Uzbekistan's national preparation,
+
+178
+00:07:41,925 --> 00:07:43,920
+there are original Uzbek starter tracks for
+
+179
+00:07:43,920 --> 00:07:47,340
+Mathematics, Ona tili and CEFR or Multilevel.
+
+180
+00:07:47,905 --> 00:07:49,205
+They include explanations,
+
+181
+00:07:49,545 --> 00:07:50,345
+worked examples,
+
+182
+00:07:50,765 --> 00:07:51,615
+answered practice
+
+183
+00:07:51,865 --> 00:07:53,015
+and interactive checks.
+
+184
+00:07:53,525 --> 00:07:57,200
+The national library keeps teaching
+courses separate from textbook and
+
+185
+00:07:57,200 --> 00:08:00,880
+official-guidance references,
+with source and publication information.
+
+186
+00:08:01,665 --> 00:08:02,620
+The starter tracks do
+
+187
+00:08:02,620 --> 00:08:05,055
+not claim to cover every certificate requirement.
+
+188
+00:08:05,465 --> 00:08:08,300
+Around the study session, your account provides notes,
+
+189
+00:08:08,685 --> 00:08:10,260
+flashcards and focus tools.
+
+190
+00:08:10,805 --> 00:08:13,040
+Save and search a note. Turn a
+
+191
+00:08:13,040 --> 00:08:15,800
+difficult idea into a question you can test later.
+
+192
+00:08:16,345 --> 00:08:17,880
+Use the study timer and breaks
+
+193
+00:08:17,880 --> 00:08:19,940
+to give one task a clear boundary.
+
+194
+00:08:20,545 --> 00:08:23,380
+The weekly planner builds a template around your classes.
+
+195
+00:08:23,805 --> 00:08:26,100
+The AI tutor can help explain a question,
+
+196
+00:08:26,445 --> 00:08:28,595
+but you should still inspect its reasoning.
+
+197
+00:08:29,025 --> 00:08:30,175
+Conversation retention,
+
+198
+00:08:30,785 --> 00:08:31,460
+allowances
+
+199
+00:08:31,705 --> 00:08:34,140
+and AI credits depend on the current plan.
+
+200
+00:08:34,685 --> 00:08:37,200
+Check those details before starting paid AI
+
+201
+00:08:37,200 --> 00:08:40,440
+work. University planning has a separate workspace.
+
+202
+00:08:41,085 --> 00:08:43,160
+Search the catalog, compare institutions
+
+203
+00:08:43,545 --> 00:08:44,780
+and build a shortlist.
+
+204
+00:08:45,325 --> 00:08:48,200
+Inspect the dates and source links behind a ranking,
+
+205
+00:08:48,525 --> 00:08:51,060
+fee figure or historical admission rate.
+
+206
+00:08:51,525 --> 00:08:54,260
+Then check the university's own current requirements.
+
+207
+00:08:54,877 --> 00:08:56,977
+The application tools help keep deadlines,
+
+208
+00:08:57,517 --> 00:08:58,692
+academic records,
+
+209
+00:08:59,157 --> 00:08:59,957
+test attempts,
+
+210
+00:09:00,257 --> 00:09:01,057
+essay drafts
+
+211
+00:09:01,237 --> 00:09:02,787
+and private documents together.
+
+212
+00:09:03,397 --> 00:09:05,252
+The roadmap organises the process.
+
+213
+00:09:05,797 --> 00:09:07,272
+It cannot guarantee an offer
+
+214
+00:09:07,272 --> 00:09:09,852
+or replace an institution's official instructions.
+
+215
+00:09:10,725 --> 00:09:13,140
+Community spaces support study discussion.
+
+216
+00:09:13,785 --> 00:09:16,135
+Direct messages remain with their participants,
+
+217
+00:09:16,545 --> 00:09:18,920
+and private group creation needs approval.
+
+218
+00:09:19,625 --> 00:09:22,380
+Parent access also requires the student's approval
+
+219
+00:09:22,380 --> 00:09:25,940
+before learning progress and released results can be shared.
+
+220
+00:09:26,525 --> 00:09:29,240
+The course library can grow from inside the platform.
+
+221
+00:09:30,005 --> 00:09:32,480
+An authorised editor can add a subtopic,
+
+222
+00:09:32,825 --> 00:09:33,625
+write a lesson,
+
+223
+00:09:33,985 --> 00:09:35,580
+attach a resource and create
+
+224
+00:09:35,580 --> 00:09:37,500
+a practice question with its answer.
+
+225
+00:09:38,205 --> 00:09:40,140
+This matters when a teacher wants to add
+
+226
+00:09:40,140 --> 00:09:43,320
+an explanation for a mistake the class actually made.
+
+227
+00:09:43,845 --> 00:09:45,480
+Administrators manage access,
+
+228
+00:09:45,845 --> 00:09:48,745
+approvals and platform records through their own controls.
+
+229
+00:09:49,405 --> 00:09:52,405
+These permissions are separate from ordinary student access.
+
+230
+00:09:52,925 --> 00:09:55,225
+Course editing is a publishing responsibility:
+
+231
+00:09:55,925 --> 00:09:57,025
+check the explanation,
+
+232
+00:09:57,445 --> 00:10:00,420
+answer and source before making material available.
+
+233
+00:10:01,025 --> 00:10:02,760
+Finally, the interface has five
+
+234
+00:10:02,760 --> 00:10:06,260
+language options, appearance controls and responsive layouts.
+
+235
+00:10:06,925 --> 00:10:10,025
+Those settings do not mean every lesson has five translations.
+
+236
+00:10:10,765 --> 00:10:14,600
+Access options include the website,
+supported home-screen installation,
+
+237
+00:10:15,265 --> 00:10:17,400
+the Android package on the install page
+
+238
+00:10:17,825 --> 00:10:20,520
+and the Telegram entry point using the same account.
+
+239
+00:10:21,285 --> 00:10:23,240
+An internet connection is still needed.
+
+240
+00:10:23,725 --> 00:10:26,220
+You don't have to use every feature in one session.
+
+241
+00:10:26,545 --> 00:10:28,295
+Start with the job in front of you:
+
+242
+00:10:28,385 --> 00:10:29,260
+create a paper,
+
+243
+00:10:29,625 --> 00:10:32,900
+review a response, prepare a class or learn one topic.
+
+244
+00:10:33,425 --> 00:10:34,660
+Open FocusED,
+
+245
+00:10:35,025 --> 00:10:37,380
+choose that job and work through the next step.

@@ -1,0 +1,117 @@
+{
+  "recordedOn": "2026-11-06",
+  "videos": [
+    {
+      "video": "reading-evidence",
+      "file": "reading-evidence.mp4",
+      "durationSeconds": 23.4,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "sha256": "c1a93e608a736f56cc7f9e312d4218e0e8bc56df1a5203e4d615bfb6ccd84242",
+      "bytes": 840727,
+      "subtitles": "reading-evidence.srt",
+      "instagramScheduled": true
+    },
+    {
+      "video": "sat-intersections",
+      "file": "sat-intersections.mp4",
+      "durationSeconds": 18.833333,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "sha256": "e17135b5e34dd2f65f1162cb39309e39b103f4a674606ee4ee6583c959041b89",
+      "bytes": 645861,
+      "subtitles": "sat-intersections.srt",
+      "instagramScheduled": true
+    },
+    {
+      "video": "percent-base",
+      "file": "percent-base.mp4",
+      "durationSeconds": 20.733333,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "sha256": "ea6be40ef6c4a88086eed55cb9f55949087539b946a679fe6441cd0f9d362b45",
+      "bytes": 629552,
+      "subtitles": "percent-base.srt",
+      "instagramScheduled": true
+    },
+    {
+      "video": "writing-overview",
+      "file": "writing-overview.mp4",
+      "durationSeconds": 24.7,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "sha256": "4e9c5fc4f034d9e6c2e74fd697fbee9d26955426dce223383332687752248103",
+      "bytes": 807779,
+      "subtitles": "writing-overview.srt",
+      "instagramScheduled": true
+    },
+    {
+      "video": "theta-triangle",
+      "file": "theta-triangle.mp4",
+      "durationSeconds": 23.666667,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "sha256": "9c9a449a3166452a9bbcdb171d249c0c24012e25d1e4f3e363b695e99703d257",
+      "bytes": 1049660,
+      "subtitles": "theta-triangle.srt",
+      "instagramScheduled": true
+    },
+    {
+      "video": "reasoning-first",
+      "file": "reasoning-first.mp4",
+      "durationSeconds": 19.466667,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "sha256": "379bf977b8f119dfb5db878250586fd61831c3e0874e12ea34a0c4d109b34d06",
+      "bytes": 629258,
+      "subtitles": "reasoning-first.srt",
+      "instagramScheduled": true
+    },
+    {
+      "video": "launch",
+      "file": "launch.mp4",
+      "durationSeconds": 82.2,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "sha256": "36a6abf58e41f3b30f10a71615ecd3612839c239fe39ece2df32b59ffd973ccc",
+      "bytes": 5535611,
+      "subtitles": "launch.srt",
+      "embeddedChapters": 0,
+      "instagramScheduled": true
+    },
+    {
+      "video": "full-tour",
+      "file": "full-tour.mp4",
+      "durationSeconds": 637.8,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "sha256": "60545207177d53fa4cb8319cd85a6fa3637d085084bfd28b9cca1d9bc8359b32",
+      "bytes": 35565276,
+      "subtitles": "full-tour.srt",
+      "embeddedChapters": 17,
+      "instagramScheduled": false
+    }
+  ],
+  "englishNarration": true,
+  "englishSubtitles": true,
+  "reviewMethods": [
+    "Actual-ASR transcript and timing comparison",
+    "Encoded-frame inspection",
+    "Complete media decoding",
+    "Caption geometry and mathematical checks",
+    "Exact upload hashes"
+  ],
+  "subjectiveFullListeningPerformed": false,
+  "scheduleFile": "schedule.csv",
+  "scheduledPosts": 7,
+  "fullTourDistribution": "Separate widescreen video",
+  "demoScreens": "Clearly labelled local sample data in the actual deployed interface"
+}
